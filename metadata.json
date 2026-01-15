@@ -1,0 +1,5 @@
+{
+  "name": "XML 智能格式化大师",
+  "description": "专业的 XML 解析工具，支持语法高亮、自动缩进、树状结构查看以及针对特定 Record/Field 结构的智能表格展示。",
+  "requestFramePermissions": []
+}
