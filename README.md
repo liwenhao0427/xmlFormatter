@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1gjmDr9JFO6_1sNMmqomqZYXJ5oqJzkpY
 
+GithubPages 地址： https://liwenhao0427.github.io/xmlFormatter/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
